@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/ai_local_engine/__init__.py
+src/ai_local_engine/cli.py
+src/ai_local_engine/config.py
+src/ai_local_engine/database.py
+src/ai_local_engine/engine.py
+src/ai_local_engine/licensing.py
+src/ai_local_engine/listener.py
+src/ai_local_engine/vector_store.py
+src/ai_local_engine.egg-info/PKG-INFO
+src/ai_local_engine.egg-info/SOURCES.txt
+src/ai_local_engine.egg-info/dependency_links.txt
+src/ai_local_engine.egg-info/entry_points.txt
+src/ai_local_engine.egg-info/requires.txt
+src/ai_local_engine.egg-info/top_level.txt
+tests/test_engine.py

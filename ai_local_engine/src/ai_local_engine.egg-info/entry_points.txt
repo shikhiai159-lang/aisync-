@@ -1,0 +1,2 @@
+[console_scripts]
+ai-sync = ai_local_engine.cli:main
